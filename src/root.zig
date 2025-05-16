@@ -1,1 +1,1 @@
-pub const bellmanFord = @import("bellmanFord.zig");
+pub const bellmanFord = @import("bellmanFord.zig").bellmanFord;

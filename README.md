@@ -1,9 +1,4 @@
-# ZAShortest distance from node 0 to node 0 is 0
-Shortest distance from node 0 to node 1 is 5
-Shortest distance from node 0 to node 2 is 7
-Shortest distance from node 0 to node 3 is 9
-Shortest distance from node 0 to node 4 is 8
-Shortest distance from node 0 to node 5 is 5lgo
+# ZAlgo
 
 A collection of algorithms implemented in [Zig](https://ziglang.org/).  
 
